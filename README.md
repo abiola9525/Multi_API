@@ -6,7 +6,9 @@ This project is a multi-purpose API built with Django Rest Framework that provid
 
                         **Requirements**
   i. Python 3.x
+  
   ii. Django 3.x
+  
   iii. Django Rest Framework 3.x
 
                          **Usage**
