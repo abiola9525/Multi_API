@@ -2,7 +2,7 @@
 
 This project is a multi-purpose API built with Django Rest Framework that provides various endpoints for different types of data, including:
 
-1. Countries details: Information about countries, including their capitals, populations, GDPs, currencies, and more.
+1. Countries Informations: Information about countries, including their capitals, populations, GDPs, currencies, and more.
 
 ## Requirements
   i. Python 3.x
