@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     
     'country_details',
+    'blog_api',
 ]
 
 MIDDLEWARE = [
